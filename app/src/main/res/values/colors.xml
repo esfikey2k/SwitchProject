@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash">#F6B0B0</color>
+
+    <color name="background_color">#DF9F34</color>
+    <color name="rengoku_txt_color">#31130D</color>
+
+    <color name="zenitsu_bg_color">#ffa974</color>
+    <color name="zenitsu_txt_color">#4e3188</color>
+
+    <color name="kanao_bg_color">#93e4c1</color>
+    <color name="kanao_txt_color">#962071</color>
+
+    <color name="tanjiro_bg_color">#59a985</color>
+    <color name="tanjiro_txt_color">#392f2f</color>
+
+    <color name="nezuko_bg_color">#392f2f</color>
+    <color name="nezuko_txt_color">#e6d3a7</color>
+
+
+
+</resources>

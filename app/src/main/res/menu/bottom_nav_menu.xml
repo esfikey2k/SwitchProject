@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/choiceFragment"
+        android:title="@string/choice_txt"
+        android:icon="@drawable/ic_choice"
+        />
+
+    <item
+        android:id="@+id/givingFragment"
+        android:title="@string/giving_txt"
+        android:icon="@drawable/ic_giving"
+        />
+
+    <item
+        android:id="@+id/happinessFragment"
+        android:title="@string/happiness_txt"
+        android:icon="@drawable/ic_happiness"
+        />
+
+    <item
+        android:id="@+id/kindnessFragment"
+        android:title="@string/kindness_txt"
+        android:icon="@drawable/ic_kindness"
+        />
+
+    <item
+        android:id="@+id/optimismFragment"
+        android:title="@string/optimism_txt"
+        android:icon="@drawable/ic_optimism"
+        />
+
+
+</menu>

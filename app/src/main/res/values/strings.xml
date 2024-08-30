@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SwitchProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="happiness_txt">Happiness</string>
+    <string name="optimism_txt">Optimism</string>
+    <string name="kindness_txt">Kindness</string>
+    <string name="giving_txt">Giving</string>
+    <string name="respect_txt">Respect</string>
+    <string name="ego_txt">Ego</string>
+    <string name="choice_txt">Choice</string>
+
+    <string name="story_txt">Hikaye</string>
+
+    <string name="name_of_rengoku_txt">Rengoku \n Kyojuro</string>
+    <string name="rengoku_story_txt">Ateş Nefesi Tekniği ustası olan Rengoku, güçlü ve cömert bir iblis avcısıdır. Her zaman başkalarının iyiliğini düşünen ve hayatını onları korumaya adamış bir kişiliğe sahiptir. Ateşli ve kararlı yapısı, çevresindeki insanlara ilham verir. Babasından miras aldığı dürüstlük ve cesaretle, herkesin kahramanı olmayı başarmıştır. Hayatı boyunca adalet ve onur için savaşmıştır.</string>
+
+    <string name="name_of_zenitsu_txt">Zenitsu \n Agatsuma</string>
+    <string name="zenitsu_story_txt">Zenitsu, korkak ve kendine güvensiz bir gençtir, ancak kritik anlarda olağanüstü güçler sergiler. İlk bakışta sürekli şikayet eden biri gibi görünse de, içinde iyimser ve cesur bir yanı vardır. Sevdiği insanlar için korkularının üstesinden gelmeyi öğrenir ve onları korumak için savaşır. Zenitsu, Güçlü Yıldırım Nefesi tekniklerine sahip ve oldukça hızlı bir savaşçıdır.</string>
+
+    <string name="name_of_kanao_txt">Kanao \n Tsuyuri</string>
+    <string name="kanao_story_txt">Kanao, küçük yaşta ailesi tarafından terk edilmiş ve kötü bir geçmişe sahip olmasına rağmen, Kocho ailesi tarafından kurtarılmış ve iblis avcısı olarak yetiştirilmiştir. Sessiz ve itaatkar bir kişilik sergileyen Kanao, saygıyı ve disiplini hayatının merkezine almıştır. İçsel duygularını ifade etmekte zorlansa da, Tanjiro ile tanıştıktan sonra kendi yolunu bulmaya başlar. Güçlü bir savaşçı ve Çiçek Nefesi kullanıcıdır.</string>
+
+    <string name="name_of_kamado_txt">Tanjiro \n Kamado</string>
+    <string name="kamado_story_txt">Ailesini bir iblis saldırısında kaybeden Tanjiro, kız kardeşini tekrar insana dönüştürmek için iblis avcısı olur. Nazik ve empatik bir yapıya sahip olan Tanjiro, düşmanlarına bile merhamet göstermesiyle tanınır. Her zaman doğruluk ve adalet için savaşır ve sevdiklerini korumak için asla pes etmez. En büyük gücü, sevdiklerine olan bağlılığı ve azmidir.</string>
+
+    <string name="name_of_nezuko_txt">Nezuko \n Kamado</string>
+    <string name="nezuko_story_txt">Nezuko, bir iblis saldırısında yaralanmış ve bir iblise dönüşmüştür. Buna rağmen, insan tarafını koruyarak insanlara zarar vermemeye çalışır ve abisine olan sevgisi asla değişmez. Küçük yaşta olmasına rağmen büyük bir içsel güce ve sebat gücüne sahiptir. Şirin, masum yüzüyle herkesin sevgisini kazanmıştır.</string>
+
+
+</resources>
